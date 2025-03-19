@@ -1,5 +1,5 @@
 ---
-title: "LEMO: hoe moet je een feedback rapport interpeteren?"
+title: "LEMO: hoe moet je een feedback rapport interpreteren?"
 subtitle: "Een experiment met scrollytelling"
 
 title-block-banner: "#C40009"
@@ -17,8 +17,7 @@ format:
     embed-resources: true
 ---
 
-:::: cr-section
-
+::::::::::::: cr-section
 ::: {#cr-LEMO-logo}
 ![](images/AP_logo_LEMO.png){#cr-categorie fig-align="center" width="50%" height="50%" vertical-align="bottom"}
 :::
@@ -27,15 +26,15 @@ format:
 
 # Waarvoor staat LEMO?
 
- @cr-LEMO-definitie LEMO is een samentrekking van de woorden
- 
-[@cr-LEMO-definitie]{highlight="cr-LE"} **Leerstrategieën** 
+@cr-LEMO-definitie LEMO is een samentrekking van de woorden
+
+@cr-LEMO-definitie **Leerstrategieën**
 
 Leerstrategieën zijn manieren waarop je de leerstof aanpakt. Een schema maken bij een hoofdstuk is een voorbeeld van een leerstrategie.
 
-@cr-LEMO-definitie en 
+@cr-LEMO-definitie en
 
-[@cr-LEMO-definitie]{highlight="cr-MO"} **Motivatie** 
+@cr-LEMO-definitie **Motivatie**
 
 Motivatie beschrijft de redenen waarom je studeert en hoe je je daarbij voelt. Studeren omdat je later een bepaalde job wil uitoefenen is een voorbeeld van motivatie.
 
@@ -54,16 +53,15 @@ Motivatie beschrijft de redenen waarom je studeert en hoe je je daarbij voelt. S
 
 # Wat meet LEMO precies?
 
-@cr-LEMO-structuur De LEMO-vragenlijst brengt **vier** componenten van je leerproces in kaart. 
+@cr-LEMO-structuur De LEMO-vragenlijst brengt **vier** componenten van je leerproces in kaart.
 
-[@cr-LEMO-structuur]{pan-to="0%,50%"} Twee componenten hebben te maken met leren 
+@cr-LEMO-structuur Twee componenten hebben te maken met leren
 
 @cr-LEMO-structuur en
 
-[@cr-LEMO-structuur]{pan-to="0%,-50%"} Twee componenten hebben te maken met motivatie
+@cr-LEMO-structuur Twee componenten hebben te maken met motivatie
 
 @cr-LEMO-structuur We bekijken elk aspect in detail.
-
 
 ::: {focus-on="cr-LEMO-structuur" pan-to="50%, 50%" scale-by="1.6"}
 ## [Verwerkingsstrategieën]{style="color:#954951;"}
@@ -96,8 +94,7 @@ In Lemo bevragen we drie sturingsstrategieën:
 
 -   *Planning en tijdsbeheer* of de mate waarin je jouw leerproces op voorhand plant, deze planning opvolgt en bewust kijkt hoe je met jouw tijd omgaat.
 
--   *Stuurloos leergedrag* of de mate waarin moeilijkheden ervaar om je leerproces te organiseren. 
-
+-   *Stuurloos leergedrag* of de mate waarin moeilijkheden ervaar om je leerproces te organiseren.
 :::
 
 ::: {focus-on="cr-LEMO-structuur" pan-to="50%, -50%" scale-by="1.6"}
@@ -109,7 +106,7 @@ In Lemo bevragen we drie motivationele drijfveren:
 
 -   *Willen studeren* of de mate waarin je er zelf voor kiest om te studeren. Deze keuze kan voortkomen uit interesse in de leerstof of omdat je begrijpt dat je studie noodzakelijk is voor een job die je later wil uitvoeren .
 
--   *Moeten studeren* of de mate waarin je je gedwongen voelt om te studeren. Deze druk kan van buitenaf komen. Je ouders en leerkrachten hebben bepaalde verwachtingen waaraan je wil voldoen. Je kan jezelf die druk ook opleggen omdat je het bij voorbeeld minstens even goed wil doen dan je broer. 
+-   *Moeten studeren* of de mate waarin je je gedwongen voelt om te studeren. Deze druk kan van buitenaf komen. Je ouders en leerkrachten hebben bepaalde verwachtingen waaraan je wil voldoen. Je kan jezelf die druk ook opleggen omdat je het bij voorbeeld minstens even goed wil doen dan je broer.
 
 -   *Demotivatie* of de mate waarin je het moeilijk vindt om je te motiveren voor je studie. Misschien was de opleiding niet wat je ervan verwachtte, vind je de opleiding te moeilijk of te makkelijk of voel je je niet helemaal thuis.
 :::
@@ -124,42 +121,39 @@ In Lemo bevragen we drie motivationele drijfveren:
 
 # Hoe moet je scores in jouw feedbackrapport interpreteren?
 
-@cr-LEMO-sterkten Hiernaast zie je een figuur uit het LEMO-rapport. Deze figuur geeft de leersterkten van een student weer. Ze geeft je een overzicht van de 3 vaardigheden waarop je de hoogste score haalt. Die score ligt tussen 0 en 4. 
+@cr-LEMO-sterkten Hiernaast zie je een figuur uit het LEMO-rapport. Deze figuur geeft de leersterkten van een student weer. Ze geeft je een overzicht van de 3 vaardigheden waarop je de hoogste score haalt. Die score ligt tussen 0 en 4.
 
-[@cr-LEMO-sterkten]{pan-to="50%, 0%" scale-by="1.2"} Het middelpunt van de schaal ligt bijgevolg op 2 
+@cr-LEMO-sterkten Het middelpunt van de schaal ligt bijgevolg op 2
 
 ::: {#cr-LEMO-sterkten .scale-to-fill}
 ![](images/Sterkten.png)
 :::
 
-Maar hoe goed zijn jouw scores nu? Dat kan je zien aan de kleur van de balken[@cr-LEMO-sterkten]{pan-to="-70%, 0%" scale-by="1.1"} . 
+Maar hoe goed zijn jouw scores nu? Dat kan je zien aan de kleur van de balken@cr-LEMO-sterkten .
 
-@cr-LEMO-categorie Op basis onderzoek verdeelden we de schaal op in vijf stukken. De kleur van de balk toont je in welk stuk jouw score valt en hoe je die score moet interpreteren. 
+@cr-LEMO-categorie Op basis onderzoek verdeelden we de schaal op in vijf stukken. De kleur van de balk toont je in welk stuk jouw score valt en hoe je die score moet interpreteren.
 
 ::: {#cr-LEMO-categorie}
 ![](images/Categorie.png)
 :::
 
-[@cr-LEMO-categorie]{pan-to="0%, 80%" scale-by="2.5"} Een [rode achtergrondkleur]{style="color:#c00e19;"} betekent dat deze vaardigheid nog echt een werkpunt voor je is. 
+@cr-LEMO-categorie Een [rode achtergrondkleur]{style="color:#c00e19;"} betekent dat deze vaardigheid nog echt een werkpunt voor je is.
 
 @cr-LEMO-categorie
 
-[@cr-LEMO-categorie]{pan-to="0%, -50%" scale-by="2.5"} Een [groene achtergrondkleur]{style="color:#d0dea7;"} betekent dat je hier al heel sterk in bent. 
+@cr-LEMO-categorie Een [groene achtergrondkleur]{style="color:#d0dea7;"} betekent dat je hier al heel sterk in bent.
 
 @cr-LEMO-categorie
 
-[@cr-LEMO-categorie]{pan-to="0%, 0%" scale-by="2.5"} De [okergele kleur]{style="color:#cabc05;"} toont je dat je hierin al enige vaardigheid bezit, maar dat er nog ruimte is om te groeien @cr-LEMO-categorie
+@cr-LEMO-categorie De [okergele kleur]{style="color:#cabc05;"} toont je dat je hierin al enige vaardigheid bezit, maar dat er nog ruimte is om te groeien @cr-LEMO-categorie
 
-
-::: {#cr-samen layout-ncol=2 .scale-to-fill}
-
+::: {#cr-samen .scale-to-fill layout-ncol="2"}
 ![](images/Categorie.png){#cr-categorie fig-align="center" width="120%" height="120%" vertical-align="bottom"}
 
 ![](images/Sterkten.png){#cr-sterkte fig-align="center" vertical-align="top"}
 :::
 
- Terug naar onze figuur. Hoe moeten we dan onze scores interpreteren? @cr-samen
+Terug naar onze figuur. Hoe moeten we dan onze scores interpreteren? @cr-samen
 
-We kunnen nu afleiden dat onze student met een score van 2 op 4 voor de vaardigheid  Analyseren al enige vaardigheid bezit, maar dat er nog ruimte is om te groeien. Hij is echter goed *op weg* in zijn ontwikkelingsproces voor deze vaardigheid. De score van 2,6 op de schaal Willen studeren betekent dat zijn motivatie om te studeren *goed* is. De score op stuurloos leergedrag is 3,25, wat onder het label *Heel goed* valt.
-
-::::
+We kunnen nu afleiden dat onze student met een score van 2 op 4 voor de vaardigheid Analyseren al enige vaardigheid bezit, maar dat er nog ruimte is om te groeien. Hij is echter goed *op weg* in zijn ontwikkelingsproces voor deze vaardigheid. De score van 2,6 op de schaal Willen studeren betekent dat zijn motivatie om te studeren *goed* is. De score op stuurloos leergedrag is 3,25, wat onder het label *Heel goed* valt.
+:::::::::::::
